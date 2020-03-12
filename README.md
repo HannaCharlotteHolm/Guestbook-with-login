@@ -1,7 +1,5 @@
 # Guestbook-with-login
 
-Code case for Ted & Gustaf
-
 Users should be able to:
 
 • Log in as a user

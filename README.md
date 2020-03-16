@@ -1,13 +1,11 @@
 # Guestbook-with-login
 
-Users should be able to:
+Built with React, node.js and MongoDB. 
 
-• Log in as a user
+# Users are be able to:
 
-• Write, edit and delete messages
-
-• Interact with messages from others by liking them
-
-• The data should be saved somehow
-
-• Publish it online
+• Sign up and then log in/log out as a user
+• Read messages
+• Post messages
+• Edit and delete their own messages
+• Interact with messages by others by liking them

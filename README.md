@@ -13,3 +13,7 @@ Built with React, node.js and MongoDB.
 • Edit and delete their own messages
 
 • Interact with messages by others by liking them
+
+# Live project
+
+https://charlotte-guestbook-with-login.netlify.com/login
